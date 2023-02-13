@@ -46,4 +46,12 @@ body
 { 
     background: #22282b;
     padding: 10px;
+
+}
+#footer
+{
+    background: #0e1112;
+    color: #c1c4c5;
+    text-align: center;
+    padding: 0.5em;
 }
