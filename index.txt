@@ -2,4 +2,6 @@ Soy Kristian Cifuentes
 
 Tengo 32 años de edad.
 
+Master 1
+
 Actualmente estoy estudiando GIT.
